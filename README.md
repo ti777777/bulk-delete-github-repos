@@ -1,4 +1,4 @@
-# A script for bulk deletion of GitHub repositories
+# A PowerShell script for bulk deletion of GitHub repositories
 
 ## Reference 
 
